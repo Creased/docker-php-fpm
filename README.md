@@ -1,7 +1,7 @@
 PHP-FPM Docker Image
 ====================
 
-[![](https://badge.imagelayers.io/creased/docker-php-fpm:latest.svg)](https://imagelayers.io/?images=creased/docker-php-fpm:latest 'Get your own badge on imagelayers.io')
+[![](https://images.microbadger.com/badges/image/creased/docker-php-fpm.svg)](http://microbadger.com/images/creased/docker-php-fpm "Get your own image badge on microbadger.com")
 
 ## Informations ##
 
